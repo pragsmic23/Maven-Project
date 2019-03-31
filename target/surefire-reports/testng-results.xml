@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="31983" started-at="2019-03-31T00:23:43Z" finished-at="2019-03-31T00:24:15Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="31983" started-at="2019-03-31T00:23:43Z" finished-at="2019-03-31T00:24:15Z">
+      <class name="com.project.MavenPro.ChangeDropDownValues">
+        <test-method status="PASS" signature="ChangeDDValues()[pri:0, instance:com.project.MavenPro.ChangeDropDownValues@10bdf5e5]" name="ChangeDDValues" duration-ms="15368" started-at="2019-03-31T00:23:54Z" finished-at="2019-03-31T00:24:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ChangeDDValues -->
+      </class> <!-- com.project.MavenPro.ChangeDropDownValues -->
+      <class name="com.project.MavenPro.CaptureScreenshot">
+        <test-method status="PASS" signature="getScreenshot()[pri:0, instance:com.project.MavenPro.CaptureScreenshot@dc24521]" name="getScreenshot" duration-ms="11633" started-at="2019-03-31T00:23:43Z" finished-at="2019-03-31T00:23:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getScreenshot -->
+      </class> <!-- com.project.MavenPro.CaptureScreenshot -->
+      <class name="com.project.MavenPro.Drag_Drop_HandlingFrames">
+        <test-method status="PASS" signature="HandlingFrames()[pri:0, instance:com.project.MavenPro.Drag_Drop_HandlingFrames@6e1ec318]" name="HandlingFrames" duration-ms="4956" started-at="2019-03-31T00:24:10Z" finished-at="2019-03-31T00:24:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- HandlingFrames -->
+      </class> <!-- com.project.MavenPro.Drag_Drop_HandlingFrames -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
